@@ -1,0 +1,6 @@
+[submodule "success-manager"]
+	path = success-manager
+	url = https://github.com/SkyfallenHQ/SuccessManager
+[submodule "sis"]
+	path = sis
+	url = https://github.com/SkyfallenHQ/SIS
